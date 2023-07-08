@@ -1,0 +1,18 @@
+.card {
+    width: 500px
+    border: 1px solid black;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card-img {
+    width: 50%;
+    
+}
+
+
+.card-content {
+    padding: 10px;
+    text-align: left
+    background-color: lightblue;
+}
